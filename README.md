@@ -39,6 +39,6 @@ Below is the complete ERD showing the star-schema model used to build this BI pr
 
 # 📸 Live Dashboard
 👉 Click the image below to view the full dashboard.
-[!(images/Home.png)](https://app.powerbi.com/view?r=eyJrIjoiZjZhYWYwZmItYTkzZi00ZjVmLTkwOTAtMjIxNjU2YmZkOTdjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=e43419a2e56c48f99701)
+[![Home](https://github.com/AlishaMahanty/AtliQ_Business_Insights_360/blob/main/Images/Home.png)](https://app.powerbi.com/view?r=eyJrIjoiZjZhYWYwZmItYTkzZi00ZjVmLTkwOTAtMjIxNjU2YmZkOTdjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=e43419a2e56c48f99701)
 
 
