@@ -1,4 +1,4 @@
-# 🌐 AtliQ Business Insights 360 — Power BI | End-to-End BI Case Study
+# 🌐 AtliQ Business Insights 360 | End-to-End BI Case Study
 
 A complete 360° Business Intelligence solution built using Power BI, SQL, and Excel, designed to help decision-makers understand revenue, profitability, customer behavior, market performance, and supply chain risks — all in one interactive dashboard.
 
@@ -35,4 +35,9 @@ gross_price
 dim_customer, dim_market, dim_product,
 dim_date, dim_segment, dim_category, etc.
 Below is the complete ERD showing the star-schema model used to build this BI project:
-![Entity-Relationship Diagram]()
+![Entity-Relationship Diagram](https://github.com/AlishaMahanty/AtliQ_Business_Insights_360/blob/main/Images/ER_Diagram.png)
+
+# 📸 Live Dashboard
+👉 **[Click here to view the full interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjZhYWYwZmItYTkzZi00ZjVmLTkwOTAtMjIxNjU2YmZkOTdjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=e43419a2e56c48f99701)
+
+
