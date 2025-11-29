@@ -27,7 +27,8 @@ The dashboard enables clear and fast decision-making across teams.
 A professionally built Star Schema with:
 - Fact Tables: fact_sales_monthly, fact_forecast_monthly, manufacturing_cost, freight_cost, pre_invoice_deductions, post_invoice_deductions, gross_price
 - Dimension Tables: dim_customer, dim_market, dim_product, dim_date, dim_segment, dim_category, etc.
-- 🔗 Below is the complete ERD showing the star-schema model used to build this BI project:
+
+🔗 Below is the complete ERD showing the star-schema model used to build this BI project:
 ![Entity-Relationship Diagram](https://github.com/AlishaMahanty/AtliQ_Business_Insights_360/blob/main/Images/ER_Diagram.png)
 
 # 📸 Live Dashboard
