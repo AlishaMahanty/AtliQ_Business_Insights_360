@@ -40,7 +40,7 @@ HOME
 
 # 📊 Key Insights From the Dashboard
 
-## 1️⃣ Finance View
+## 1️⃣ [Finance View](https://github.com/AlishaMahanty/AtliQ_Business_Insights_360/blob/main/Images/Finance_View.png)
 The Finance View provides visibility into profitability, cost structure, and financial health across multiple years.
 Key Patterns:
 - Revenue and margins show seasonal behavior, with clear peak periods.
@@ -48,7 +48,7 @@ Key Patterns:
 - Gross Margin levels shift year-over-year, reflecting margin pressure in some segments and improvement in others.
 - Profitability differs across regions and product categories, helping identify high-cost areas and high-margin opportunities.
 
-## 2️⃣ Sales View
+## 2️⃣ [Sales View](https://github.com/AlishaMahanty/AtliQ_Business_Insights_360/blob/main/Images/Sales_View.png)
 This section uncovers how customers, products, and segments contribute to overall revenue.
 Key Observations:
 - A small group of customers drive a significant portion of total sales, acting as strategic key accounts.
@@ -56,7 +56,7 @@ Key Observations:
 - Underperforming customer groups highlight opportunities for targeted pricing or engagement strategies.
 - Unit economics reveal the significant influence of COGS on overall profitability.
 
-## 3️⃣ Marketing View
+## 3️⃣ [Marketing View](https://github.com/AlishaMahanty/AtliQ_Business_Insights_360/blob/main/Images/Marketing_View.png)
 This view highlights performance across markets, regions, and product categories.
 Key Insights:
 - Certain markets deliver consistent profitability and stable gross margins.
@@ -64,7 +64,7 @@ Key Insights:
 - Regional trends reveal growth opportunities, emerging markets, and underperforming territories.
 - Category-level analysis showcases which product families drive margins and which need repositioning.
 
-## 4️⃣ Supply Chain View
+## 4️⃣ [Supply Chain View](https://github.com/AlishaMahanty/AtliQ_Business_Insights_360/blob/main/Images/Supply_Chain_View.png)
 Analyzes forecasting effectiveness and operational risks.
 Key Takeaways:
 - Forecast accuracy varies across customers and product lines, showing clear patterns of over-forecasting or under-forecasting.
@@ -72,7 +72,7 @@ Key Takeaways:
 - Others experience Excess Inventory (EI), which affects warehousing and working capital.
 - This view supports improved inventory planning and operational efficiency.
 
-## 5️⃣ Executive Summary (Top-Level View)
+## 5️⃣ [Executive Summary (Top-Level View)](https://github.com/AlishaMahanty/AtliQ_Business_Insights_360/blob/main/Images/Executive_View.png)
 A consolidated high-level snapshot across Finance, Sales, Marketing, and Supply Chain.
 Executive-level highlights:
 - Revenue and margin performance shift based on customer behavior, product mix, and market seasonality.
