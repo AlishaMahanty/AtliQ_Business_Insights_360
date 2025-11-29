@@ -29,64 +29,67 @@ A professionally built Star Schema with:
 - Dimension Tables: dim_customer, dim_market, dim_product, dim_date, etc.
 
 🔗 Below is the complete ERD showing the star-schema model used to build this BI project:
+ER Diagram
 ![Entity-Relationship Diagram](https://github.com/AlishaMahanty/AtliQ_Business_Insights_360/blob/main/Images/ER_Diagram.png)
 
 # 📸 Live Dashboard
 
-👉 Click the image below to open the full interactive dashboard: HOME
+👉 Click the image below to open the full interactive dashboard:
+HOME
 [![Home](https://github.com/AlishaMahanty/AtliQ_Business_Insights_360/blob/main/Images/Home.png)](https://app.powerbi.com/view?r=eyJrIjoiZjZhYWYwZmItYTkzZi00ZjVmLTkwOTAtMjIxNjU2YmZkOTdjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=e43419a2e56c48f99701)
 
 # 📊 Key Insights From the Dashboard
 
 ## 1️⃣ Finance View
-The Finance View provides a clear picture of the company’s profitability and cost structure across multiple years.
+The Finance View provides visibility into profitability, cost structure, and financial health across multiple years.
 Key Patterns:
-- Gross Sales and Net Sales show seasonal patterns, with noticeable peaks during major sales periods.
-- Operational costs and various invoice deductions significantly influence overall profitability.
-- Gross Margin fluctuates across years, indicating margin pressure in some categories and healthy performance in others.
-- Profitability varies strongly by region and product category, helping identify high-cost areas and margin-friendly segments.
+- Revenue and margins show seasonal behavior, with clear peak periods.
+- Operational and invoice-related costs strongly impact overall profitability.
+- Gross Margin levels shift year-over-year, reflecting margin pressure in some segments and improvement in others.
+- Profitability differs across regions and product categories, helping identify high-cost areas and high-margin opportunities.
 
 ## 2️⃣ Sales View
-This section reveals how different customers, products, and segments contribute to overall sales performance.
+This section uncovers how customers, products, and segments contribute to overall revenue.
 Key Observations:
-- A small set of customers consistently contribute the majority of revenue, highlighting key strategic accounts.
-- Some customers deliver strong gross margins, while others show low-margin, high-volume characteristics.
-- Certain customer segments repeatedly underperform, indicating opportunities to improve pricing, promotions, or account management.
-- Unit economics highlight that cost of goods sold (COGS) plays a major role in determining profitability.
+- A small group of customers drive a significant portion of total sales, acting as strategic key accounts.
+- Some customers maintain strong margins, while others perform as low-margin, high-volume accounts.
+- Underperforming customer groups highlight opportunities for targeted pricing or engagement strategies.
+- Unit economics reveal the significant influence of COGS on overall profitability.
 
 ## 3️⃣ Marketing View
-The Marketing View uncovers performance patterns across regions, markets, and product categories.
+This view highlights performance across markets, regions, and product categories.
 Key Insights:
-- Some markets demonstrate strong profitability and stable margins, while others generate revenue but struggle with bottom-line contribution.
-- Market performance varies significantly across regions, helping identify growth markets, emerging markets, and underperforming territories.
-- Category-level analysis reveals which product lines are driving margin, and which ones need strategic review or repositioning.
+- Certain markets deliver consistent profitability and stable gross margins.
+- Others generate revenue but struggle to contribute positively to overall profit.
+- Regional trends reveal growth opportunities, emerging markets, and underperforming territories.
+- Category-level analysis showcases which product families drive margins and which need repositioning.
 
 ## 4️⃣ Supply Chain View
-This view highlights forecasting efficiency, demand planning accuracy, and operational supply chain risks.
+Analyzes forecasting effectiveness and operational risks.
 Key Takeaways:
-- Forecast accuracy varies across customers and products, with certain accounts showing consistent over-forecasting or under-forecasting.
-- Some customers face Out-of-Stock (OOS) risk, leading to potential missed sales opportunities.
-- Others deal with Excess Inventory (EI), creating warehousing and cash flow challenges.
-- Understanding these patterns helps improve planning effectiveness and reduce operational inefficiencies.
+- Forecast accuracy varies across customers and product lines, showing clear patterns of over-forecasting or under-forecasting.
+- Some customers face Out-of-Stock (OOS) risks, potentially impacting sales.
+- Others experience Excess Inventory (EI), which affects warehousing and working capital.
+- This view supports improved inventory planning and operational efficiency.
 
 ## 5️⃣ Executive Summary (Top-Level View)
-The top-level view summarizes performance across Finance, Sales, Marketing, and Operations.
-Executive-Level Highlights:
-- Revenue and margin performance shift across years depending on seasonality, market trends, and customer behavior.
-- Profitability challenges often stem from operational costs, market-specific pressures, or customer-level discounts.
-- Market share trends illustrate how AtliQ performs relative to competitors across different periods.
-- Region-wise comparison reveals which zones are consistently strong and which require strategic attention.
-- Customer and product contribution analysis highlights the core drivers of growth and areas needing performance improvement.
+A consolidated high-level snapshot across Finance, Sales, Marketing, and Supply Chain.
+Executive-level highlights:
+- Revenue and margin performance shift based on customer behavior, product mix, and market seasonality.
+- Profitability challenges often arise from operational costs, regional-specific pressures, or heavy discounting.
+- Market share trends reveal AtliQ’s competitive position across multiple years.
+- Regional comparisons identify consistently strong performers and markets that require strategic focus.
+- Customer and product contributions highlight the core drivers of business growth.
 
 # 🎯 Business Impact & Value
 
 This dashboard enables stakeholders to:
 - Identify unprofitable markets & customers
-- Improve pricing & margin strategies
-- Monitor demand forecasting accuracy
+- Optimize pricing and margin strategies
+- Improve forecasting accuracy
 - Control operational costs
-- Track market share growth against competitors
-- Make strategic decisions with confidence
+- Track market share performance
+- Make confident, data-backed decisions
 
 # 📁 Project Files
 
