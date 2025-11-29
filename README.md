@@ -38,6 +38,7 @@ Below is the complete ERD showing the star-schema model used to build this BI pr
 ![Entity-Relationship Diagram](https://github.com/AlishaMahanty/AtliQ_Business_Insights_360/blob/main/Images/ER_Diagram.png)
 
 # 📸 Live Dashboard
-👉 **[Click here to view the full interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjZhYWYwZmItYTkzZi00ZjVmLTkwOTAtMjIxNjU2YmZkOTdjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=e43419a2e56c48f99701)
+👉 Click the image below to view the full dashboard.
+[!(images/Home.png)](https://app.powerbi.com/view?r=eyJrIjoiZjZhYWYwZmItYTkzZi00ZjVmLTkwOTAtMjIxNjU2YmZkOTdjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=e43419a2e56c48f99701)
 
 
