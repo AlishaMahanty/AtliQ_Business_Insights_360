@@ -97,6 +97,15 @@ This dashboard enables stakeholders to:
 
 # 📁 Project Files
 
-[Power BI Dashboard (PBIX)](https://github.com/AlishaMahanty/AtliQ_Business_Insights_360/blob/main/
-Excel Master Data
-PDF Report (Business Insights 360)
+- [Power BI Dashboard (PBIX)](https://github.com/AlishaMahanty/AtliQ_Business_Insights_360/blob/main/AtliQ_Business_Insights_360.pbix)
+- [Excel Master Data](https://github.com/AlishaMahanty/AtliQ_Business_Insights_360/blob/main/AtliQ%20Business%20Insights%20360.xlsx)
+- [PDF Report (Business Insights 360)](https://github.com/AlishaMahanty/AtliQ_Business_Insights_360/blob/main/AtliQ%20Business%20Insights%20360.pdf)
+
+
+# 🙋‍♀️ About Me
+
+Hi, I'm Alisha — a passionate Data Analyst skilled in SQL, Power BI, Excel & Python.
+I enjoy turning raw data into meaningful insights that tell stories and drive decisions.
+
+If you're a recruiter or hiring manager, feel free to connect!
+Let’s build something impactful together.
