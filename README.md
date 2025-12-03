@@ -97,6 +97,10 @@ This dashboard enables stakeholders to:
 - [Excel Master Data](https://github.com/AlishaMahanty/AtliQ_Business_Insights_360/blob/main/AtliQ%20Business%20Insights%20360.xlsx)
 - [PDF Dashboard (Business Insights 360)](https://github.com/AlishaMahanty/AtliQ_Business_Insights_360/blob/main/AtliQ%20Business%20Insights%20360.pdf)
 
+# 📢 LinkedIn Engagement Post
+
+I shared a detailed breakdown of this project on LinkedIn — including dashboard insights, learning takeaways.
+👉 Check out the LinkedIn Post Here: [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7400460704966676480/)
 
 # 🙋‍♀️ About Me
 
