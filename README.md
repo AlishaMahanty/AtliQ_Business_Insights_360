@@ -93,6 +93,7 @@ This dashboard enables stakeholders to:
 
 ## 📁 Project Files
 
+- [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZjZhYWYwZmItYTkzZi00ZjVmLTkwOTAtMjIxNjU2YmZkOTdjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=e43419a2e56c48f99701)
 - [Power BI Dashboard (PBIX)](https://github.com/AlishaMahanty/AtliQ_Business_Insights_360/blob/main/AtliQ_Business_Insights_360.pbix)
 - [Excel Master Data](https://github.com/AlishaMahanty/AtliQ_Business_Insights_360/blob/main/AtliQ%20Business%20Insights%20360.xlsx)
 - [PDF Dashboard (Business Insights 360)](https://github.com/AlishaMahanty/AtliQ_Business_Insights_360/blob/main/AtliQ%20Business%20Insights%20360.pdf)
